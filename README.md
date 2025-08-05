@@ -69,3 +69,11 @@ python age_gender_detection.py
 4.**Press**
 
 Press q to exit the webcam feed
+
+## 📸 Screenshots
+
+### 🎥 Real-Time Detection Output:
+![Screenshot 1](Screenshot%202024-09-30%20134224.png)
+![Screenshot 2](Screenshot%202024-09-30%20134454.png)
+
+
